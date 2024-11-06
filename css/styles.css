@@ -1,0 +1,96 @@
+/* body 
+family: Roboto
+Weight: Regular
+Size: 12px Line Height: 14px
+Letter Spacing: 4% */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.04em;
+}
+/* header 1 
+Family: Roboto
+Weight: Bold
+Size: 56px
+Letter Spacing: 2%
+Line Height: 60px */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+}
+/* header 2
+Family: Roboto
+Weight: Bold
+Size: 36px
+Letter Spacing: 2% */
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.02em;
+}
+/* header 3 
+Family: Roboto
+Weight: Medium
+Size: 20px
+Letter Spacing: 2% */
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.02em;
+}
+/* small text
+Family: Roboto
+Weight: Regular
+Size: 12px Line Height: 14px
+Letter Spacing: 4% */
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.04em;
+}
+/* body medium
+Family: Roboto Font Weight: Medium
+Size: 16px
+Line Height: 24px
+Letter Spacing: 2% */
+.medium-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+/* button text
+Family: Roboto
+Weight: Medium
+Size: 16px Line Height: 24px
+Letter Spacing: 4% */
+.button-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+}
+/* link text
+Family: Roboto
+Weight: Regular
+Size: 14px
+Line Height: 16px */
+a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
