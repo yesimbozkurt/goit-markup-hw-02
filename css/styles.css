@@ -1,3 +1,39 @@
+.nav-logo {
+    color: #4D5AE5;
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.nav-logo .span-logo {
+    color: #2E2F42;
+}
+.navbar-list .navbar-link .link {
+    color:#2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.navbar-list .navbar-link .link:hover,
+.navbar-list .navbar-link .link:focus {
+    color: #404bbf;
+}
+.navbar-right .link {
+    color:#434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.navbar-right .link:hover,
+.navbar-right .link:focus {
+    color: #404bbf;
+}
+
+
+
 /* body 
 family: Roboto
 Weight: Regular
@@ -5,10 +41,15 @@ Size: 12px Line Height: 14px
 Letter Spacing: 4% */
 body {
     font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
     font-weight: 400;
     font-size: 12px;
     line-height: 14px;
     letter-spacing: 0.04em;
+}
+.first-section {
+    background-color: #2e2f42;
 }
 /* header 1 
 Family: Roboto
@@ -94,3 +135,24 @@ a {
     font-size: 14px;
     line-height: 16px;
 }
+footer {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+footer {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+    background-color: #2E2F42;
+}
+.footer-logo {
+    color: #4D5AE5;
+}
+span{
+    color: #F4F4FD
+   }
