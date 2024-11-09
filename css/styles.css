@@ -1,6 +1,6 @@
 .nav-logo {
     color: #4D5AE5;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -120,7 +120,7 @@ Letter Spacing: 2% */
     color: #434455;
 }
 .third-section {
-    color: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .third-section-title {
     font-size: 36px;
@@ -134,15 +134,25 @@ Letter Spacing: 2% */
     background-color: #FFFFFF;
 }
 .member-name {
+    font-weight: 500;
+    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .fourth-section-title {
     font-size: 36px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2E2F42;
+}
+.fourth-section_item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -210,7 +220,7 @@ footer {
 }
 .footer-logo {
     color: #4D5AE5;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -219,4 +229,9 @@ footer {
 }
 span{
     color: #F4F4FD
+   }
+   .footer-text {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
    }
